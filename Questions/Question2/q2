@@ -1,0 +1,8 @@
+No, it is not mandatory however typing git status will show you the missing steps 
+youll need in order to properly upload your git repository.
+
+ls, git status, and pwd are all bash terminal commands and not part of node. typing 
+in node in the terminal opens up the Node REPL and you need programming language
+in order for commands to work.
+
+you may type .help while in Node REPL to go back to regular terminal.

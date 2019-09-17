@@ -1,0 +1,1 @@
+//github is where you upload a git repository to. git is the actual program tracking your code and changes.
